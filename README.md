@@ -1,6 +1,6 @@
 
-### SoundCloud Track Downloader & Shazam Identifier
-This project downloads audio tracks from SoundCloud using yt-dlp, trims them to a specified duration using FFmpeg, and identifies the track using Shazam’s API via RapidAPI. It serves as a simple way to extract and identify songs from SoundCloud, leveraging a combination of Python libraries and external tools.
+### SoundCloud Track Downloader & Song Identifier
+This project downloads audio tracks from SoundCloud using yt-dlp, trims them to a specified duration using FFmpeg, and identifies the track using AudD.io's API. It serves as a simple way to extract and identify songs from SoundCloud, leveraging a combination of Python libraries and external tools.
 
 **Features**
 - Download Tracks from SoundCloud: Uses yt-dlp to extract audio from SoundCloud URLs and save them as MP3 files.
